@@ -11,3 +11,7 @@ const myNumberIsEven = isEven(44);
 console.log(myNumberIsEven);
 const herNumberisEven = isEven(123);
 console.log(herNumberisEven);
+
+for (let i = 10; i > 1; i++) {
+    console.log(i);
+}
