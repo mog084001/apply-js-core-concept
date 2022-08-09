@@ -3,6 +3,6 @@ function incheToFeet(inches) {
     return feet;
 }
 
-const dadaInches = 144;
-const dadaFeet = incheToFeet(dadaInches);
+
+const dadaFeet = incheToFeet(144);
 console.log(dadaFeet);
